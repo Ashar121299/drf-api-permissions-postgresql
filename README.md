@@ -30,6 +30,12 @@ _*python manage.py runserver*_
 
 _*docker-compose up*_
 
+OR 
+
+_*docker-compose up --build*_
+
+_*docker-compose run web python manage.py runserver*_
+
 
 
 ### PR Link
